@@ -1,5 +1,5 @@
 
-const targetDate = new Date('2025-12-25T18:00:00').getTime();
+const targetDate = new Date('2026-10-10T18:00:00').getTime();
 
 // updateCounter();
 
